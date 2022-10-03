@@ -124,11 +124,12 @@
         <div>
             <h6>Recuerda incluir un titulo para tu charla</h6>
         </div>
-        <div>
-            <button width="100%" type="submit">Enviar</button>
+        <div id="send">
+            <button type="submit">Enviar</button>
        </div>
         </form>
     </center>
+    <div></div>
 </div>
     </section>
     </main>
