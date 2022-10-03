@@ -1,0 +1,124 @@
+header{
+    background-color: rgb(52,58,64);
+    width: 100%;
+    height: 5%;
+}
+.bgGrisOscuro {
+    background-color:  rgb(52,58,64);
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Inter Tight', sans-serif;
+    text-align: center;
+}
+h6 {
+    font-family: 'Inter Tight', sans-serif;
+    text-align: center;
+}
+.link {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.parrafo {
+    color: white;
+    text-align: right;
+    padding-bottom: 20%;
+    padding-right: 5%;
+}
+.titulo3
+{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.titulo
+{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 1%;
+    padding-left: 10%;
+}
+
+.titulo2
+{
+    color: black;
+    font-weight: bold;
+}
+.parrafo2
+{
+    color: white;
+    background-color: rgb(52, 58,64);
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 1.6;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    
+}
+main {
+    width: 1000px;
+}
+footer 
+{
+    background-color: rgb(30,58,72);
+    text-decoration: none;
+    width: 100%;
+    height: 10%;
+}
+
+.hijo{
+    display: inline-block;
+    padding-right: 5%;
+}
+
+.presentacion{
+    background-size: 100%;
+    background-image: url(../assets/images/ba1.jpg);
+}
+.contenedorImagenes{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.link2{
+    color: green;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.p2{
+    text-align: left;
+    font-family: Verdana, sans-serif;
+    font-size: 80%;
+      padding-left: 5%;
+}
+
+.containeflex{
+    width: 100%;
+    display: flex;
+    height: 5%;
+    flex-direction: column;
+    flex-direction: row;
+    background-color: rgb(52, 58,64);
+  
+    }
+
+#formulario{
+    width: 50%;
+    height: 20%;
+}
+
